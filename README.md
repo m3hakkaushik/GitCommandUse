@@ -3,6 +3,7 @@ Assignment 4 - Build & Document a mini Project using Github and VS code
 Author: Mehak
 
 #About
+
 This is my personal portfolio website made with HTML and CSS.
 It showcases my skills, projects, and contact information.
 
